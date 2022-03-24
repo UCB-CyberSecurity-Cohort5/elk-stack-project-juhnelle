@@ -5,12 +5,7 @@ Project 1 - ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram]
-
-
-
-
-![](Images/Diagram.drawio.png)
+![TODO: Update the path with the name of your diagram]![](Images/Diagram.drawio.png)
 
 
 
