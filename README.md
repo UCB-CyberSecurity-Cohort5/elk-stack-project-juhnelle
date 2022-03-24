@@ -5,9 +5,8 @@ Project 1 - ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
 
-![](Images/Diagram.drawio.png)
 
-
+![Diagram drawio](https://user-images.githubusercontent.com/93636095/160018811-6c3094e2-4918-42af-b69a-3644024bc206.png)
 
 
 
@@ -84,7 +83,8 @@ The following screenshot displays the result of running `docker ps` after succes
 
 
 
-![](Images/sudo-docker-ps.png)
+<img width="401" alt="sudo-docker-ps" src="https://user-images.githubusercontent.com/93636095/160018786-34be1bcd-2d73-4e6f-9f61-b6c0a570dd38.png">
+
 
 
 
