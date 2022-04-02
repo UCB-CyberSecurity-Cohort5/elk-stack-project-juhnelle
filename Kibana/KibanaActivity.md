@@ -42,12 +42,32 @@ In the last 24 hours, 63 visitors from China were using Mac OSX
     
     
     
+    
+    
+    
+    
+    
     - In the last 7 days, what country produced the majority of the traffic on the website?
     China produced the majority of traffic on the website in the last 7 days.
     
     
-    <img width="526" alt="China Web Traffic" src="https://user-images.githubusercontent.com/93636095/161405037-3e9f3981-f307-48bc-ae80-a8a99bda48d9.png">
+   
+   
+   
+   
+   
+   
+   <img width="526" alt="China Web Traffic" src="https://user-images.githubusercontent.com/93636095/161405037-3e9f3981-f307-48bc-ae80-a8a99bda48d9.png">
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -59,7 +79,13 @@ In the last 24 hours, 63 visitors from China were using Mac OSX
 
     
     
-    
+   
+   
+   
+   
+   
+   
+   
     
     - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
 Types of downloaded files in the last 7 days:
@@ -70,7 +96,15 @@ rpm: This file stores installation packages
 
 
 
+
+
+
 <img width="572" alt="TypesOfDownloadedFiles" src="https://user-images.githubusercontent.com/93636095/161405071-0394af4a-5124-46cc-b948-7442b4449674.png">
+
+
+
+
+
 
 
 
