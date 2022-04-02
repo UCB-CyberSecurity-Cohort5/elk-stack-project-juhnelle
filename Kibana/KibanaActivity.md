@@ -22,9 +22,6 @@
   
   <img width="572" alt="Unique Visitors in India" src="https://user-images.githubusercontent.com/93636095/161404994-ac991951-0c15-4146-baff-30cbce6b4acb.png">
 
-  
-  
-  
     - In the last 24 hours, of the visitors from China, how many were using Mac OSX?
 In the last 24 hours, 63 visitors from China were using Mac OSX
 
