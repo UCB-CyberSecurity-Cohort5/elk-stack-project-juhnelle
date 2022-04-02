@@ -18,7 +18,12 @@
 
     - In the last 7 days, how many unique visitors were located in India?
     In the last 7 days, there were 244 unique visitors located in India.
-    https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-juhnelle/blob/main/Kibana/Images/Unique%20Visitors%20in%20India.png
+  
+  
+  Unique Visitors in India.png
+  
+  
+  
     - In the last 24 hours, of the visitors from China, how many were using Mac OSX?
 In the last 24 hours, 63 visitors from China were using Mac OSX
 
