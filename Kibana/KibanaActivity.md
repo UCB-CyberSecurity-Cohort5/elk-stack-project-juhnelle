@@ -37,6 +37,14 @@ In the last 24 hours, 63 visitors from China were using Mac OSX
     - In the last 2 days, what percentage of visitors received 404 errors? How about 503 errors?
     In the last 2 days, 7.143% of visitors received a 404 error and 2.857% of visitors received a 503 error.
     
+    
+    
+    
+    
+    
+    
+    
+    
     <img width="571" alt="Response Codes" src="https://user-images.githubusercontent.com/93636095/161405026-f5bfe28f-f785-4b77-9c84-3d59460639a6.png">
 
     
@@ -46,7 +54,9 @@ In the last 24 hours, 63 visitors from China were using Mac OSX
     
     
     
-    
+ 
+ 
+ 
     - In the last 7 days, what country produced the majority of the traffic on the website?
     China produced the majority of traffic on the website in the last 7 days.
     
