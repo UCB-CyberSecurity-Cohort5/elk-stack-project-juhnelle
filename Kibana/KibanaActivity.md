@@ -75,7 +75,13 @@ In the last 24 hours, 63 visitors from China were using Mac OSX
     13:00 was the time of day that had the highest amount of activity in China.
     
     
-    <img width="571" alt="ChinaHeatMap" src="https://user-images.githubusercontent.com/93636095/161405064-f1fe7975-919a-4cbb-a4cf-22d37365b66c.png">
+ 
+ 
+ 
+ 
+ 
+ 
+ <img width="571" alt="ChinaHeatMap" src="https://user-images.githubusercontent.com/93636095/161405064-f1fe7975-919a-4cbb-a4cf-22d37365b66c.png">
 
     
     
@@ -88,6 +94,11 @@ In the last 24 hours, 63 visitors from China were using Mac OSX
    
     
     - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
+
+
+
+
+
 Types of downloaded files in the last 7 days:
 gz:  Will compress a file using gzip
 css: Will format the contents of a webpage using HTML
@@ -168,12 +179,25 @@ rpm: This file stores installation packages
 
 
 
+     
+     
+     
+     
      - What OS was the source machine running?
      The source machine was running Windows xp
 
-     - What is the full URL that was accessed?
+    
+    
+    
+    
+    
+    - What is the full URL that was accessed?
      The full url that was accessed was https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb
 as accessed?
+     
+     
+     
+     
      
      - From what website did the visitor's traffic originate?
      The user’s traffic originated from http://nytimes.com/success/gerald-p-carr
