@@ -103,13 +103,13 @@
 
 <img width="467" alt="SourceActivity" src="https://user-images.githubusercontent.com/93636095/161405450-ea8b5d04-f2e3-4ccf-80d2-b0d69068557c.png">
      
-    - What OS was the source machine running?
+     - What OS was the source machine running?
     
-       The source machine was running Windows xp
+        The source machine was running Windows xp
      
-    - What is the full URL that was accessed?
+     - What is the full URL that was accessed?
  
-       The full url that was accessed was https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb
+        The full url that was accessed was https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb
 as accessed?
      
      - From what website did the visitor's traffic originate?
