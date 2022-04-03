@@ -48,13 +48,13 @@
 
      - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
 
-        Types of downloaded files in the last 7 days:
-        - gz :  Will compress a file using gzip
-        - css : Will format the contents of a webpage using HTML
-        - deb : Unix archive files used to install packages on a linux OS
-        - rpm : This file stores installation packages 
+Types of downloaded files in the last 7 days:
+- gz :  Will compress a file using gzip
+- css : Will format the contents of a webpage using HTML
+- deb : Unix archive files used to install packages on a linux OS
+- rpm : This file stores installation packages 
 
-        <img width="572" alt="TypesOfDownloadedFiles" src="https://user-images.githubusercontent.com/93636095/161405071-0394af4a-5124-46cc-b948-7442b4449674.png">
+<img width="572" alt="TypesOfDownloadedFiles" src="https://user-images.githubusercontent.com/93636095/161405071-0394af4a-5124-46cc-b948-7442b4449674.png">
 
 3. Now that you have a feel for the data, Let's dive a bit deeper. Look at the chart that shows Unique Visitors Vs. Average Bytes.
      - Locate the time frame in the last 7 days with the most amount of bytes (activity).
@@ -114,7 +114,7 @@ The full url that was accessed was https://artifacts.elastic.co/downloads/elasti
      
      - From what website did the visitor's traffic originate?
      
-     The user’s traffic originated from http://nytimes.com/success/gerald-p-carr
+The user’s traffic originated from http://nytimes.com/success/gerald-p-carr
 
 6. Finish your investigation with a short overview of your insights. 
 
