@@ -105,12 +105,12 @@
      
      - What OS was the source machine running?
     
-        The source machine was running Windows xp
+The source machine was running Windows xp
      
      - What is the full URL that was accessed?
  
-        The full url that was accessed was https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb
-as accessed?
+The full url that was accessed was https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb
+
      
      - From what website did the visitor's traffic originate?
      
