@@ -46,7 +46,7 @@
     
  <img width="571" alt="ChinaHeatMap" src="https://user-images.githubusercontent.com/93636095/161405064-f1fe7975-919a-4cbb-a4cf-22d37365b66c.png">
 
-     - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
+   - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
 
 Types of downloaded files in the last 7 days:
 - gz :  Will compress a file using gzip
