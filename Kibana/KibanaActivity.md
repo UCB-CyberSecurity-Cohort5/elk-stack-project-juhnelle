@@ -46,7 +46,7 @@
     
  <img width="571" alt="ChinaHeatMap" src="https://user-images.githubusercontent.com/93636095/161405064-f1fe7975-919a-4cbb-a4cf-22d37365b66c.png">
 
-  - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
+   - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
 
 Types of downloaded files in the last 7 days:
 - gz :  Will compress a file using gzip
@@ -103,16 +103,16 @@ Types of downloaded files in the last 7 days:
 
 <img width="467" alt="SourceActivity" src="https://user-images.githubusercontent.com/93636095/161405450-ea8b5d04-f2e3-4ccf-80d2-b0d69068557c.png">
      
-- What OS was the source machine running?
+ - What OS was the source machine running?
     
 The source machine was running Windows xp
      
-- What is the full URL that was accessed?
+ - What is the full URL that was accessed?
  
 The full url that was accessed was https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb
 
      
-- From what website did the visitor's traffic originate?
+ - From what website did the visitor's traffic originate?
      
 The user’s traffic originated from http://nytimes.com/success/gerald-p-carr
 
